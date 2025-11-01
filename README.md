@@ -1,5 +1,7 @@
-# Banking Application
+# 🏦 Banking Application
 To run the Python banking project, follow these steps. Make sure you have the necessary files, Python installed, and the environment set up properly. Here’s a step-by-step guide:
+
+<br/>
 
 ## 1. Install Python
 If you don’t have Python installed, you can download it from the official website:
@@ -8,6 +10,8 @@ If you don’t have Python installed, you can download it from the official webs
 Make sure to check the option "Add Python to PATH" during installation. To verify that Python is installed correctly, open your terminal/command prompt and run:
 -	python –version
 
+<br/>
+
 ## Run Python project
 Open Terminal (You can search for it in your applications or press Cmd + Space and type "Terminal").
 Navigate to the folder where your .py file is located using the cd command:
@@ -15,6 +19,8 @@ Navigate to the folder where your .py file is located using the cd command:
 
 ## Run the Python file with:
 -	python Banking_System.py
+
+<br/>
 
 ## Demo
 ![Banking System ](https://github.com/user-attachments/assets/6ebdc050-77c0-4d10-9cc1-8ee962666da1)
