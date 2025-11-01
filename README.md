@@ -16,6 +16,9 @@ Navigate to the folder where your .py file is located using the cd command:
 ## Run the Python file with:
 -	python Banking_System.py
 
+## Demo
+![Banking System ](https://github.com/user-attachments/assets/6ebdc050-77c0-4d10-9cc1-8ee962666da1)
+
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
 You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on [Linkedin](https://www.linkedin.com/in/sufyanism)
